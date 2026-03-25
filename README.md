@@ -6,8 +6,8 @@ Przeprowadzenie wielowymiarowej oceny poziomu życia i kondycji ekonomicznej 73 
 
 **Rozwiązanie**  
   * Zastosowanie metod porządkowania liniowego (TOPSIS, Metoda Standaryzowanych Sum) do konstrukcji syntetycznych mierników rozwoju
-	* Implementacja algorytmów analizy skupień: K-medoids (PAM) oraz grupowania hierarchicznego (metoda Warda) w celu identyfikacji biegunów wzrostu i obszarów peryferyjnych
-	* Wykorzystanie kryteriów Sylwetki (Silhouette), WSS oraz Calińskiego-Harabasza do optymalizacji klastrów i walidacji spójności grup
+  * Implementacja algorytmów analizy skupień: K-medoids (PAM) oraz grupowania hierarchicznego (metoda Warda) w celu identyfikacji biegunów wzrostu i obszarów peryferyjnych
+  * Wykorzystanie kryteriów Sylwetki (Silhouette), WSS oraz Calińskiego-Harabasza do optymalizacji klastrów i walidacji spójności grup
   * Analiza korelacji i asymetrii rozkładów w celu wykrycia zależności między PKB, a infrastrukturą społeczną i rynkiem pracy
 
 
